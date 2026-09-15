@@ -675,9 +675,8 @@ with a separate restaurant/admin management workflow.
 ## 👨‍💻 Developer
 
 **Kuldeep Gogoi**
-
-GitHub:  
-https://github.com/kuldeep10011
+**Ishan Nain**
+**Abhishek Rajput**
 
 Project Repository:  
 https://github.com/kuldeep10011/NextGenProject
